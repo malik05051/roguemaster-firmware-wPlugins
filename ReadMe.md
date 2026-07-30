@@ -4,8 +4,9 @@
 &nbsp;<a href='https://www.patreon.com/RogueMaster?filters[tag]=Latest%20Release' target='_blank'><img src='.github/assets/Patreon.png' alt='Latest PATREON Release' title='Latest PATREON Release'></a>
 &nbsp;<a href='https://github.com/RogueMaster/awesome-flipperzero-withModules' target='_blank'><img src='.github/assets/Resources.png' alt='More Research / Assets' title='More Research / Assets'></a></h1>
 
-# Install GitHub Version With [WEB INSTALLER](https://lab.flipper.net/?url=https%3A%2F%2Frogue-master.net%2F%3Ffile%3DRM0722-1811-ff9f4fe.tgz&channel=RM0722-1811-ff9f4fe&version=0.420.0&target=f7)
-
+# IMPORTANT NOTE : This project is discontinued and is archived, to build it yourself fork this repo and make a codespace like I did to execute these commands to build the firmware .tgz with the menus addition :
+git pull
+./fbt COMPACT=1 DEBUG=0 updater_package
 ## Thank you so much to our RM Pro/SUPER Patreon supporters! Because of people like you, we are able to offer the best and most up-to-date Flipper Zero Firmware!
 
 <table><tr><th><div align="left">
